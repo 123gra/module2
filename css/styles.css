@@ -5,6 +5,7 @@ body
 
 #chicken
 {
+  position:relative;
   float:right;
   background-color:pink;
   
