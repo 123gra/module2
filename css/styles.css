@@ -1,12 +1,13 @@
-body
+div
 {
-  background-color:solid black;
+  position:relative;
 }
 
 #chicken
 {
   position:absolute;
-  float:right;
+  top: 80px;
+  right: 0;
   background-color:pink;
   
 }
