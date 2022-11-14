@@ -1,3 +1,45 @@
+@media screen and (max-width: 767px) {
+  div .a{
+    float: left;
+    width: 100%;
+  }
+}
+  @media screen and (max-width: 767px) {
+  div .b{
+    float: left;
+    width: 100%;
+  }
+}
+    
+    @media screen and (max-width: 992px) {
+  div {
+    float: left;
+    width: 100%;
+  }
+}
+ @media screen and (max-width: 991px) {
+  div .a {
+    float: left;
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  div .b {
+    float: right;
+    width: 50%;
+  }
+}
+@media screen and (max-width: 991px) {
+  div .c{
+    top:20px;
+    float: left;
+    width: 100%;
+  }
+}
+
+
+  
 div
 {
   position:relative;
